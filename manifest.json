@@ -1,0 +1,14 @@
+{
+  "name": "Clear Lokalise notifications",
+  "description": "Make those pesky Lokalise notifications disappear",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  }
+}
